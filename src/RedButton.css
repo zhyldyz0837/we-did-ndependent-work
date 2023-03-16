@@ -1,0 +1,11 @@
+.RedButton {
+  font-family: cursive;
+  font-size: 25px;
+  color: white;
+  background-color: red;
+  padding: 30px 55px;
+  border-radius: 15px;
+  display: flex;
+  margin-top: 20px;
+  box-shadow: 0 0 10px black;
+}

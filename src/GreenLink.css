@@ -1,0 +1,8 @@
+.GreenLink {
+  font-family: monospace;
+  font-size: 35px;
+  color: green;
+  text-decoration: none;
+  display: flex;
+  margin-top: 20px;
+}
